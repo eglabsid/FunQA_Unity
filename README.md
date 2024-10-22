@@ -1,4 +1,4 @@
-# LevelCreater(레벨 제작기)
+# LevelGenerator by RL Agent(레벨 제작기)
 ![image](ReadMe/EGLabLogo.png)
 
 
