@@ -1,0 +1,47 @@
+{
+    "Isometric_dungeon": {
+        "checkpoints": [
+            {
+                "steps": 499885,
+                "file_path": "results\\CSVStress_7\\Isometric_dungeon\\Isometric_dungeon-499885.onnx",
+                "reward": 0.874319960855064,
+                "creation_time": 1726494219.0308325,
+                "auxillary_file_paths": [
+                    "results\\CSVStress_7\\Isometric_dungeon\\Isometric_dungeon-499885.pt"
+                ]
+            },
+            {
+                "steps": 999924,
+                "file_path": "results\\CSVStress_7\\Isometric_dungeon\\Isometric_dungeon-999924.onnx",
+                "reward": 1.1814999668858945,
+                "creation_time": 1726496792.82007,
+                "auxillary_file_paths": [
+                    "results\\CSVStress_7\\Isometric_dungeon\\Isometric_dungeon-999924.pt"
+                ]
+            },
+            {
+                "steps": 1000047,
+                "file_path": "results\\CSVStress_7\\Isometric_dungeon\\Isometric_dungeon-1000047.onnx",
+                "reward": 1.2388999506365508,
+                "creation_time": 1726496792.8906724,
+                "auxillary_file_paths": [
+                    "results\\CSVStress_7\\Isometric_dungeon\\Isometric_dungeon-1000047.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000047,
+            "file_path": "results\\CSVStress_7\\Isometric_dungeon.onnx",
+            "reward": 1.2388999506365508,
+            "creation_time": 1726496792.8906724,
+            "auxillary_file_paths": [
+                "results\\CSVStress_7\\Isometric_dungeon\\Isometric_dungeon-1000047.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.4.0"
+    }
+}
